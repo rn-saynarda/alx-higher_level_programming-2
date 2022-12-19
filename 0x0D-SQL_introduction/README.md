@@ -7,7 +7,7 @@ What databases are for: Storing data in your application (in memory) has the app
 
 
 In this project , I got the first opportunity to learn about Data definition language and data maniulation language as I was learning about SQL.
-## Tasks
+## Tasks:bee:
 
 0-list_databases.sql:
 script that lists all databases of your MySQL server.
